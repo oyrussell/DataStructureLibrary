@@ -6,3 +6,4 @@ All of these data structures are implemented as C++ classes and can work with te
 #### - Circular Dynamic Array
 #### - Treap
 #### - Fibonacci Heap
+#### - Heap
