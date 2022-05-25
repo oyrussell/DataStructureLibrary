@@ -13,7 +13,8 @@ This Circular Dynamic Array has the following attributes:
   * Capacity Doubles when adding data to a full array
   * Capacity is reduced by half when less than 25% of the capacity contains data<br>
 
-Here is an image illustrating the format of the data structure:
+Here is an image illustrating the format of the data structure:<br><p align="center">
+<img src="images/CircularDynamicArray.png" width = 600 height = 200></p>
 
 ## Treap | (Binary Search Tree + Heap)
 The requirements for this treap include:
