@@ -26,6 +26,10 @@ The requirements for this treap include:
 Here is an image illustrating the structure of the treap:
 
 ## Fibonacci Heap [C++]
+<p align="center">
+<img src="images/FibHeap.png" width = 500 height = 350>
+</p>
+
 The requirements for this Fibonacci Heap include:
   * Maintain a Priorioty Queue of Heap-Ordered Trees
   * Each Heap-Ordered Tree maintains the minimum-heap property
