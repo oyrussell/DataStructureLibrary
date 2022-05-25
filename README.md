@@ -8,7 +8,7 @@ All of these data structures are implemented as C++ classes and can work with te
 * Fibonacci Heap
 * Heap
 
-## The Circular Dynamic Array (C++)
+## The Circular Dynamic Array [C++]
 This Circular Dynamic Array has the following attributes:
   * Capacity Doubles when adding data to a full array
   * Capacity is reduced by half when less than 25% of the capacity contains data<br>
@@ -16,7 +16,7 @@ This Circular Dynamic Array has the following attributes:
 Here is an image illustrating the format of the data structure:<br><p align="center">
 <img src="images/CircularDynamicArray.png" width = 600 height = 200></p>
 
-## Treap | (Binary Search Tree + Heap)
+## Treap | (Binary Search Tree + Heap) [C++]
 The requirements for this treap include:
   * Maintain binary search tree order:
       * smaller data points are always left children of the current node
@@ -25,11 +25,11 @@ The requirements for this treap include:
 
 Here is an image illustrating the structure of the treap:
 
-## Fibonacci Heap
+## Fibonacci Heap [C++]
 The requirements for this Fibonacci Heap include:
   * Maintain a Priorioty Queue of Heap-Ordered Trees
   * Each Heap-Ordered Tree maintains the minimum-heap property
       * The Key of a child is always greater than or equal to the key of the parent node
 
-## Heap
+## Heap [C++]
 The requirements for this Heap include:
