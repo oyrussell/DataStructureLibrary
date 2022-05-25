@@ -23,7 +23,7 @@ The requirements for this treap include:
       * larger data points are always right children of the current node
   * Maintain a heap heirarchy with values of higher priority at the top of the treap and lower priority towards the leaves of the treap<br>
 
-Here is an image illustrating the structure of the treap:
+Here is an image illustrating the structure of the treap: [Work in Progress]
 
 ## Fibonacci Heap [C++]
 <p align="center">
@@ -36,4 +36,4 @@ The requirements for this Fibonacci Heap include:
       * The Key of a child is always greater than or equal to the key of the parent node
 
 ## Heap [C++]
-The requirements for this Heap include:
+The requirements for this Heap include: [Work in Progress]
