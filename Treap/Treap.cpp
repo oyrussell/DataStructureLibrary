@@ -1,9 +1,9 @@
 /*
 Owen Russell
-CS201 Phase 2 TREAP Project
+TREAP Project
 
 This data type maintains a Binary Search Tree and Heap in one data structure.
-Larger Priority Floats are near the top with smaller floats towards the leaves
+Higher Priority Floats are near the top with lower priority floats towards the leaves
 
 Bugs:
     -Updating Size of Subtrees on delete

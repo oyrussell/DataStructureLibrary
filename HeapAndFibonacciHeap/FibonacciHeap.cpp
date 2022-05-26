@@ -1,6 +1,6 @@
 /*
-CS 201 FibHeap Phase 3
-Owen Russell
+FibHeap
+Owen Yeats Russell
 */
 
 #include <cmath> //For the log function in consolidate
