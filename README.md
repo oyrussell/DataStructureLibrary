@@ -56,7 +56,7 @@ The requirements for this Fibonacci Heap include:
   * Each Heap-Ordered Tree maintains the minimum-heap property
       * The Key of a child is always greater than or equal to the key of the parent node
 
-The project requirments for the treap were:
+The project requirments for the Fibonacci Heap were:
 
 <p align="center">
 <img src="assets/requirements/FibHeapRequirements.png" width = 700 height = 700>
