@@ -21,7 +21,7 @@ The project requirments for the Circular Dynamic Array were:
 
 <p align="center">
 <img src="assets/requirements/CDARequirements1.png" width = 700 height = 700>
-<img src="assets/requirements/CDARequirements2.png" width = 700 height = 700>
+<img src="assets/requirements/CDARequirements2.png" width = 700 height = 600>
 </p>
 
 ## Treap | (Binary Search Tree + Heap) [C++]
