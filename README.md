@@ -29,7 +29,8 @@ The requirements for this treap include:
       * smaller data points are always left children of the current node
       * larger data points are always right children of the current node
   * Maintain a heap heirarchy with values of higher priority at the top of the treap and lower priority towards the leaves of the treap<br>
-[Here](https://github.com/oyrussell/DataStructureLibrary/blob/main/assets/images/Treaps.pdf) is a pdf with formal documentation of treaps.
+
+[Here](https://github.com/oyrussell/DataStructureLibrary/blob/main/assets/images/Treaps.pdf) is a pdf with formal documentation of treaps.<br>
 
 ## Fibonacci Heap [C++]
 
