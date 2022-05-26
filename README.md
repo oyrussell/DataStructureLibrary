@@ -17,6 +17,13 @@ This Circular Dynamic Array has the following attributes:
   * Capacity Doubles when adding data to a full array
   * Capacity is reduced by half when less than 25% of the capacity contains data<br>
 
+The project requirments for the Circular Dynamic Array were:
+
+<p align="center">
+<img src="assets/requirements/CDARequirements1.png" width = 500 height = 700>
+<img src="assets/requirements/CDARequirements2.png" width = 500 height = 700>
+</p>
+
 ## Treap | (Binary Search Tree + Heap) [C++]
 Illustration of the general treap structure:
 
@@ -32,6 +39,12 @@ The requirements for this treap include:
 
 [Here](https://github.com/oyrussell/DataStructureLibrary/blob/main/assets/images/Treaps.pdf) is a pdf with formal documentation of treaps.<br>
 
+The project requirments for the treap were:
+
+<p align="center">
+<img src="assets/requirements/TreapRequirements.png" width = 500 height = 700>
+</p>
+
 ## Fibonacci Heap [C++]
 
 <p align="center">
@@ -43,5 +56,17 @@ The requirements for this Fibonacci Heap include:
   * Each Heap-Ordered Tree maintains the minimum-heap property
       * The Key of a child is always greater than or equal to the key of the parent node
 
+The project requirments for the treap were:
+
+<p align="center">
+<img src="assets/requirements/FibHeapRequirements.png" width = 500 height = 700>
+</p>
+
 ## Heap [C++]
 The requirements for this Heap include: [Work in Progress]
+
+The project requirments for the Heap were:
+
+<p align="center">
+<img src="assets/requirements/HeapRequirements.png" width = 500 height = 700>
+</p>
