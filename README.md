@@ -68,5 +68,5 @@ The requirements for this Heap include: [Work in Progress]
 The project requirments for the Heap were:
 
 <p align="center">
-<img src="assets/requirements/HeapRequirements.png" width = 700 height = 500>
+<img src="assets/requirements/HeapRequirements.png" width = 600 height = 400>
 </p>
