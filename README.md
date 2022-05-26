@@ -20,15 +20,15 @@ This Circular Dynamic Array has the following attributes:
 The project requirments for the Circular Dynamic Array were:
 
 <p align="center">
-<img src="assets/requirements/CDARequirements1.png" width = 500 height = 700>
-<img src="assets/requirements/CDARequirements2.png" width = 500 height = 700>
+<img src="assets/requirements/CDARequirements1.png" width = 700 height = 700>
+<img src="assets/requirements/CDARequirements2.png" width = 700 height = 700>
 </p>
 
 ## Treap | (Binary Search Tree + Heap) [C++]
 Illustration of the general treap structure:
 
 <p align="center">
-<img src="assets/images/TreapExample.jpeg" width = 500 height = 400>
+<img src="assets/images/TreapExample.jpeg" width = 700 height = 400>
 </p>
 
 The requirements for this treap include:
@@ -59,7 +59,7 @@ The requirements for this Fibonacci Heap include:
 The project requirments for the treap were:
 
 <p align="center">
-<img src="assets/requirements/FibHeapRequirements.png" width = 500 height = 700>
+<img src="assets/requirements/FibHeapRequirements.png" width = 700 height = 700>
 </p>
 
 ## Heap [C++]
@@ -68,5 +68,5 @@ The requirements for this Heap include: [Work in Progress]
 The project requirments for the Heap were:
 
 <p align="center">
-<img src="assets/requirements/HeapRequirements.png" width = 500 height = 700>
+<img src="assets/requirements/HeapRequirements.png" width = 700 height = 700>
 </p>
