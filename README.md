@@ -42,7 +42,7 @@ The requirements for this treap include:
 The project requirments for the treap were:
 
 <p align="center">
-<img src="assets/requirements/TreapRequirements.png" width = 500 height = 700>
+<img src="assets/requirements/TreapRequirements.png" width = 700 height = 700>
 </p>
 
 ## Fibonacci Heap [C++]
@@ -68,5 +68,5 @@ The requirements for this Heap include: [Work in Progress]
 The project requirments for the Heap were:
 
 <p align="center">
-<img src="assets/requirements/HeapRequirements.png" width = 700 height = 700>
+<img src="assets/requirements/HeapRequirements.png" width = 700 height = 600>
 </p>
