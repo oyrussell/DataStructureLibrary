@@ -14,7 +14,7 @@ This Circular Dynamic Array has the following attributes:
   * Capacity is reduced by half when less than 25% of the capacity contains data<br>
 
 Here is an image illustrating the format of the data structure:<br><p align="center">
-<img src="images/CircularDynamicArray.png" width = 600 height = 200></p>
+<img src="assets/images/CircularDynamicArray.png" width = 600 height = 200></p>
 
 ## Treap | (Binary Search Tree + Heap) [C++]
 The requirements for this treap include:
@@ -27,7 +27,7 @@ Here is an image illustrating the structure of the treap: [Work in Progress]
 
 ## Fibonacci Heap [C++]
 <p align="center">
-<img src="images/FibHeap.png" width = 500 height = 350>
+<img src="assets/images/FibHeap.png" width = 500 height = 350>
 </p>
 
 The requirements for this Fibonacci Heap include:
